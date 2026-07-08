@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+# Herramientas de desarrollo / agentes
+.agents/
+.claude/
+.vscode/
+agent/
+caveman_install.ps1
+graphify-out/
+ponytail/
+skills-lock.json
